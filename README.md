@@ -1,6 +1,6 @@
 # Practico 1 - Analisis y Visualizacion
 
-Consignas: Dentro del directorio notebook
+Consignas: Dentro del directorio notebooks
 
 Para la entrega de este practico deben subir un notebook con el trabajo realizado en el directorio notebooks, especificando el numero de grupo.
 
